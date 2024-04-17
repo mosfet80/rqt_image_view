@@ -2,8 +2,8 @@
 Changelog for package rqt_image_view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.3.0 (2024-04-17)
+------------------
 * include cv_bridge.hpp instead of cv_bridge.h (`#80 <https://github.com/ros-visualization/rqt_image_view/issues/80>`_)
 * Contributors: Lucas Walter
 
